@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @pedromtbsur
-- 👀 I’m interested in Operanting System adn Security
+- 👀 I’m interested in Operanting System, Security, Robotics and Coding
 - 🌱 I’m currently learning more and more
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
